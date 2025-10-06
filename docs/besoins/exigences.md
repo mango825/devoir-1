@@ -9,13 +9,13 @@ title: Analyse des besoins - Exigences
 TODO: Liste des fonctions que le système doit accomplir.
 
 
-- [ ] EF1 : Le système montre des avis agrégés pour un cours s'il y a 5 avis ou plus pour ce cours.
-- [ ] EF2 : Le système prend en compte quelques caractéristiques pour sortir un résultat de recherche personnalisé.
-- [ ] EF3 : Le système montre les cours associés au bon code, titre ou mots-clés.
-- [ ] EF4 : Le système indique à l'utilisateur s'il est éligible au cours ou non. 
-- [ ] EF5 : Le système estime la charge de travail d'une combinaison de cours.
-- [ ] EF6 : Le système montre les résultats académiques agrégés de chaque cours.
-
+- [ ] EF1 : L'utilisateur peut créer un nouveau compte étudiant.
+- [ ] EF2 : L'utilisateur peut effectuer une nouvelle connexion à un compte étudiant.
+- [ ] EF3 : L'utilisateur peut modifier ses préférences dans son profil.
+- [ ] EF4 : L'étudiant peut effectuer des recherches des cours spécifiques.
+- [ ] EF5 : L'étudiant peut obtenir des résultats recommandés et personnalisés.
+- [ ] EF6 : L'étudiant peut voir les détails des cours sélectionnés, comme la charge de travail et les moyennes.
+- [ ] EF7 : L'étudiant peut voir les avis des anciens étudiants sur les cours sélectionnés.
 
 ## Exigences non fonctionnelles
 

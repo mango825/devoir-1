@@ -40,9 +40,9 @@ Réseau informatique de l'UdeM
 ### Hypothèses
 - Les étudiants fourniront assez d'avis pour au moins atteindre le seuil minimal  
 - Les données officielles sont fiables et actualisées selon l'année et la session  
-- ???? 
+- 
 ### Contraintes
-Loi 25: Garder la confidentialité et protéger les données  
-Contrainte du logiciel?
-Contrainte de l'environnement?
-Contrainte de performance?`
+- Loi 25 : Garder la confidentialité et protéger les données  
+- Contrainte du logiciel?
+- Contrainte de l'environnement?
+- Contrainte de performance?
