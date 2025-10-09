@@ -44,7 +44,7 @@ choix de cours plus facilement et plus adaptés à leurs préférences académiq
 | Diagramme cas d'utilisations           | 3 octobre     |:grimacing: À vérifier  | `M1`         |
 | Cas d'utilisation             | 3 octobre     | 👀 À modifier  | `M2`         |
 | Diagramme d'activités         | 6 octobre     | :grimacing: À vérifier  | `M1`         |
-| Descriptions flux principaux         | 6 octobre     | ⏳ À faire  | `M1`         |
+| Descriptions flux principaux         | 6 octobre     | ⏳ À faire  | `M1` `M2` |
 | Modèle C4                     | 6 octobre     | :grimacing: À vérifier  | `M1`         |
 | Besoins matériels             | 6 octobre     | ⏳ À faire | `M3`         |
 | Prototype fonctionnel (bonus) | 10 octobre    | ⏳ À venir  | `M`         |
