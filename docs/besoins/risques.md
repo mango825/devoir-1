@@ -24,7 +24,6 @@ TODO: Lister les principaux risques identifiés (techniques, humains, organisati
 - **Plan de mitigation** :  
   - Mettre en place un cache local
   - Communication avec l'équipe responsable du Planifium
-  - 
 
   ### Risque 3 – Absence/peu d'avis étudiants  
 
@@ -33,7 +32,7 @@ TODO: Lister les principaux risques identifiés (techniques, humains, organisati
 - **Plan de mitigation** :  
   - Incitatif pour augmenter la participation (avec prix)
   - Modération fréquentes des avis donnés
-  - 
+  - Mise en place d'un seuil minimum de 5 avis
 
   ### Risque 4 – Surcharge de traffic sur le site web
 
@@ -42,7 +41,7 @@ TODO: Lister les principaux risques identifiés (techniques, humains, organisati
 - **Plan de mitigation** :  
   - Performer des tests de performance régulièrement   
   - Implémenter un système de limitation de requêtes durant les périodes achalandées  
-  - Page de maintenance?
+  - Page de maintenance avec une affichage du délai de rétablissement du site
 
   ### Risque 5 – Fuite d'informations personnelles
 
@@ -51,7 +50,7 @@ TODO: Lister les principaux risques identifiés (techniques, humains, organisati
 - **Plan de mitigation** :  
   - Augmentation de la surveillance des logs d'activités  
   - Authentification double
-  - 
+  - Aucun stockage de données personnelles (Loi 25)
 
 ## Modification du processus opérationnel
 

@@ -29,6 +29,7 @@ Administration facultaire:
 - TGDE  
 - Responsables de programmes   
 - Doyens de programmes 
+
 ### Dépendances
 API Planifium  
 Résultats académiques agrégés  
